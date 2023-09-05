@@ -1,3 +1,4 @@
+![logo](https://github.com/Shejalchandan/Shejalchandan/blob/main/Untitled%20design%20(2).png)
 <h1 align="center">Hi 👋, I'm Shejal Chandan</h1>
 <h3 align="center">Passionate MCA Student in DAVV, Indore.</h3>
 
